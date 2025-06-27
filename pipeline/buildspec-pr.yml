@@ -13,3 +13,4 @@ phases:
       - echo Rodando testes unitários
       - echo mais uma vez
       - npm test
+  
